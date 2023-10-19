@@ -1,0 +1,4 @@
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java ==> Selenium Java
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api ==> Selenium API
+https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api ==> junit jupiter api
+Yenileri ekliycem.
