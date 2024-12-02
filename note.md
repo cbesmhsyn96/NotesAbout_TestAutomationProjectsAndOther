@@ -1,3 +1,3 @@
 ## Not
 
-Test otomasyon projelerim private durumunda. İncelemek isterseniz info@hakcanswtest.com a mail atınız veya linkedinden masaj atınız. Mailinizi callobrators a eklediğimde repolara erişebilirsiniz.
+Test otomasyon projelerim private durumunda. İncelemek isterseniz https://www.hakcanswtest.com' dan veya linkedinden iletişime geçiniz. Mailinizi callobrators a eklediğimde repolara erişebilirsiniz.
