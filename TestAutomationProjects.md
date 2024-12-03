@@ -7,7 +7,7 @@ Test otomasyon projelerim private durumunda. İncelemek isterseniz https://www.h
 ## Tecrübem olan yazılım testi konuları;
 Selenium, java, maven, gauge, junit5, appium(webe oranla daha az), postman(manuel testler), azure devops (test planstasenaryo oluşturma ve bug taskları ve test otomasyon taskı açma), git, gitlab, Testinium io(Test planlarının oluşturulduğu, test koşumundan sonra ekran videosu ve her adımda screenshot sunan Testinium şirketinin bir test otomasyon aracı. Ücretli ve ücretsiz versiyonu var.), Web/Mobil UI manuel testleri yaptım.
 
-## Bilgim olan ve en az 1 kere kullandığım araçlar ve konular;
+## Bilgim olan ve en az 1 kere kullandığım araçlar ve konular;
 Jenkins(Githubdaki bir test otomasyon projesi ile bağlantı kurup bu projedeki testlerin otomatik koşum takvminin oluşturulması, GittiGidiyor-Ebay ile çalışırken test ürünü oluşturmada), Postman script yazımı, SQL.
 
 ## Üzerinde çalıştığım konularım;
